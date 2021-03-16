@@ -74,7 +74,7 @@
 //! Here is an example of how to declare a new higher order data structure:
 //!
 //! ```rust
-//! use higher_order_core::{Ho, Call, Arg, Fun, Func};
+//! use ha::{Ho, Call, Arg, Fun, Func};
 //! use std::sync::Arc;
 //!
 //! /// Higher order 3D point.
